@@ -1,0 +1,14 @@
+main.cpp:82:5:TestCPP::TestCPP(uint8_t)	1
+main.cpp:85:10:void TestCPP::Increment()	1
+main.cpp:90:13:uint8_t TestCPP::Get()	1
+main.cpp:105:5:int main()	2
+main.cpp:165:6:void SystemClock_Config()	4
+main.cpp:226:13:void MX_DFSDM1_Init()	2
+main.cpp:264:13:void MX_I2C2_Init()	4
+main.cpp:312:13:void MX_QUADSPI_Init()	2
+main.cpp:345:13:void MX_SPI3_Init()	2
+main.cpp:385:13:void MX_USART1_UART_Init()	2
+main.cpp:420:13:void MX_USART3_UART_Init()	2
+main.cpp:455:13:void MX_USB_OTG_FS_PCD_Init()	2
+main.cpp:490:13:void MX_GPIO_Init()	1
+main.cpp:684:6:void Error_Handler()	1
